@@ -41,6 +41,9 @@ public class LendoDias {
       case "Sábado":
         System.out.print("7");
         break;
+
+      default:
+        System.out.println("Não foi digitado um dia em formato válido!");
         
     }
     
