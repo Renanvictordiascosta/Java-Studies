@@ -43,7 +43,7 @@ public class LendoDias {
         break;
 
       default:
-        System.out.println("Não foi digitado um dia em formato válido!");
+        System.out.print("Não foi digitado um dia em formato válido!");
         
     }
     
