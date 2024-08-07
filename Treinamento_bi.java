@@ -11,11 +11,11 @@ public class Treinamento_bi {
     
     System.out.println("Sistema de Cadastro de Funcionários");
      
-    for(int i = 0; i < 2; i++) {
+    for(int i = 0; i < lista.length; i++) {
         
       int z = i + 1;
         
-      for(int j = 0; j < 3; j++) {
+      for(int j = 0; j < lista[i].length; j++) {
         
         if(j == 0) {
         
@@ -51,7 +51,7 @@ public class Treinamento_bi {
       
     }
     
-    for(int i = 0; i < 2; i++) {
+    for(int i = 0; i < lista.length; i++) {
         
       System.out.print("Nome: " + lista[i][0] + "|");
       
