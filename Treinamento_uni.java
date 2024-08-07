@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class Treinamento_uni {
     
-
 // Treino de Arrays unidimensionais
   public static void main(String[] args) {
       
