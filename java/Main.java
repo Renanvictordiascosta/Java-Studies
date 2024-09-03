@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
 
-// Criando o 
+// Criando a classe principal
   public static void main(String[] args) {
 
 // Declarando as variáveis
